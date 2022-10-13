@@ -11,6 +11,9 @@ public class Logique {
         for(int i = 0; i < array.length; i++)
         {int complet=(int) (Math.random()*10);
             System.out.println(complet);
-        }
+            //int complet2=array.length*2;
+            System.out.println(array.length);
+
+         }
     }
 }
