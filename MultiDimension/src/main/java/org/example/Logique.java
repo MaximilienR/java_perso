@@ -6,7 +6,7 @@ public class Logique {
         //creation d'un tableau 2 dimansion
    Integer[][] nbr={
            {22,12,18,56,1},
-           {26,99,5,6,74},
+           {26,100,5,6,74},
            {77,45,68,78,98}
    };
    //parcourir et afficher le tableau
