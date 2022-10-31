@@ -10,8 +10,8 @@ public class Logique {
 
     for(int i=0;i<4;i++){
         //System.out.println(i);
-        int foo = scan.nextInt();
-        tab[i]=foo;
+        int tableau = scan.nextInt();
+        tab[i]=tableau;
     }
     for (int i=0;i<tab.length;i++){
         System.out.println(tab[i]);
